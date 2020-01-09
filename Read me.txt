@@ -1,4 +1,4 @@
-Technologies and Tools 
+Technologies and Tools :
 Python
 OpenCV
 TensorFlow
@@ -8,7 +8,7 @@ OpenCV
 
 Steps :
 
-1.Run set_hand_histogram.py to set the hand histogram for creating gestures.
+1.Run set_hand_histogram.py to set the hand histogram for create gestures.
 
 2.Save he histogram in the code folder.
 
