@@ -1,0 +1,25 @@
+Technologies and Tools 
+Python
+OpenCV
+TensorFlow
+Keras
+OpenCV
+
+
+Steps :
+
+1.Run set_hand_histogram.py to set the hand histogram for creating gestures.
+
+2.Save he histogram in the code folder.
+
+3.Create new gestures by running create_gestures.py and stores them in a database.
+ 
+4.Add different variations to the gestures using Rotate_images.py.
+
+5.To split all the captured gestures into training, validation and test set, Run load_images.py.
+
+6.Run display_gestures.py to view the gestures.
+
+7 Run cnn_model_train.py to train the model.
+
+8.Run final.py to start the gesture recognition window and the webcam will use to interpret the trained gestures.
