@@ -1,0 +1,17 @@
+Install following for setup environment:
+
+
+opencv-python
+tensorflow-gpu
+keras
+h5py
+numpy
+scikit-learn
+sklearn
+opencv-python
+pyttsx3
+
+
+
+
+
